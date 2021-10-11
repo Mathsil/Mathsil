@@ -11,7 +11,3 @@ Hi!
 <img src="https://github-readme-stats.vercel.app/api?username=Mathsil&theme=prussian&show_icons=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathsil&theme=prussian"/>
 </div>
-
-<div>
-  [Snake animation](https://github.com/Mathsil/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
