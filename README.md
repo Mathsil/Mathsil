@@ -7,7 +7,7 @@ Hi!
 - College 🎓 : Uniritter - Porto Alegre - Brazil
 - How to reach me 📩 : Maths.silveira4@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathsil)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Mathsil)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
