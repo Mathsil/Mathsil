@@ -13,5 +13,5 @@ Hi!
 </div>
 
 <div>
-  ![Snake animation](https://github.com/Mathsil/Mathsil/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/Mathsil/blob/output/github-contribution-grid-snake.svg)
 </div>
