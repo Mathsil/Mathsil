@@ -9,6 +9,7 @@ Hi!
 
 <div> 
 <img src="https://github-readme-stats.vercel.app/api?username=Mathsil&theme=prussian"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathsil&theme=prussian"/>
 </div>
 
 
