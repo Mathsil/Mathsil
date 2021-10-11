@@ -8,7 +8,7 @@ Hi!
 - How to reach me 📩 : Maths.silveira4@gmail.com
 
 <div> 
-<img src="https://github-readme-stats.vercel.app/api?username=Mathsil)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mathsil"/>
 </div>
 
 
